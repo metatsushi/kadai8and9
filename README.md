@@ -23,8 +23,8 @@
 -　「作ったレシピ」について「評価」（美味しかったのでまた作りたい／普通／もう作らない）を追加する機能まで入れたかったが間に合わず（土曜日までに作りたい）
 
 ## ⑤参考にしたサイト
-楽天レシピAPI
-https://webservice.rakuten.co.jp/documentation/recipe-category-ranking
+- 楽天レシピAPI
+- https://webservice.rakuten.co.jp/documentation/recipe-category-ranking
 　
 楽天レシピAPIは使いやすいが、カテゴリー別のランキングが4位までしか出ないのがたまにキズ
  
